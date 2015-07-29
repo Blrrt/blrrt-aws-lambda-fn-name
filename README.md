@@ -4,11 +4,11 @@ Returns the name of a blrrt AWS lambda function.
 
 # Installation
 
-    npm install --save blrrt-aws-lambda-fn-name
+    npm install --save @blrrt/aws-lambda-fn-name
 
 # Usage
 
-    var blrrtLambdaFnName = require('blrrt-aws-lambda-fn-name');
+    var lambdaFnName = require('@blrrt/aws-lambda-fn-name');
 
-    // "web__development__handle-post-created__v1_0_"
-    blrrtLambdaFnName('web', 'development', 'handle-post-created', '1.0.0');
+    // "web__development__handle-post-created__v1_0_0"
+    lambdaFnName('web', 'development', 'handle-post-created', '1.0.0');

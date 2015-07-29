@@ -10,7 +10,7 @@
   },
   "license": "LicenseRef-LICENSE",
   "main": "index.js",
-  "name": "blrrt-aws-lambda-fn-name",
+  "name": "@blrrt/aws-lambda-fn-name",
   "scripts": {
     "test": "node test"
   },
