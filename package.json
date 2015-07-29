@@ -1,0 +1,18 @@
+{
+  "author": {
+    "email": "admin@blrrt.com",
+    "name": "Blrrt, Inc."
+  },
+  "description": "Return the name of a blrrt AWS lambda function.",
+  "devDependencies": {
+    "eslint": "^0.24.1",
+    "tape": "^4.0.1"
+  },
+  "license": "LicenseRef-LICENSE",
+  "main": "index.js",
+  "name": "blrrt-aws-lambda-fn-name",
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.0.0"
+}
