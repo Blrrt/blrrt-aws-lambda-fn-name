@@ -11,6 +11,10 @@
   "license": "LicenseRef-LICENSE",
   "main": "index.js",
   "name": "@blrrt/aws-lambda-fn-name",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Blrrt/aws-lambda-fn-name.git"
+  },
   "scripts": {
     "test": "node test"
   },
